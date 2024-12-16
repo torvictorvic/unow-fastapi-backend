@@ -1,5 +1,3 @@
-
-
 # FastAPI/Python Backend (Envío de Correos)
 
 ## Descripción
@@ -18,8 +16,8 @@ Este proyecto es un servicio backend desarrollado con FastAPI y Python, encargad
 - **Framework:** FastAPI
 - **Lenguaje:** Python 3.9
 - **Servidor ASGI:** Uvicorn
-- **Librerías:** pydantic, pytest, pytest-cov, aiosmtplib (u otras según se requiera)
-- **Herramientas de Desarrollo:** Poetry/Pipenv (opcional), Git
+- **Librerías:** pydantic, pytest, pytest-cov, aiosmtplib
+- **Herramientas de Desarrollo:** PIP, Git
 
 ## Prerequisitos
 
@@ -34,8 +32,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/torvictorvic/unow-fastapi-backend
-   cd fastapi-email-backend
+   git clone https://github.com/torvictorvic/unow-fastapi-backend.git
+   cd unow-fastapi-backend
 
 2. **Crear un Ambiente Virtual para aislar las dependencias.**
 
